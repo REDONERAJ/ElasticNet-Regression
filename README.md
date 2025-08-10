@@ -65,4 +65,6 @@ The UI is built using HTML and CSS with a clean, interactive design. Users can e
 ---
 
 ## 📸 Screenshot
-![App Screenshot](screenshot.png)
+<img width="1366" height="651" alt="Screenshot 2025-08-10 193106" src="https://github.com/user-attachments/assets/1a1a4dea-7fbd-4ab6-aa79-a3f958efe9a1" />
+<img width="1366" height="636" alt="Screenshot 2025-08-10 193135" src="https://github.com/user-attachments/assets/fe62dbc9-e607-4f21-9c0d-af4cfc62342a" />
+<img width="1366" height="655" alt="Screenshot 2025-08-10 193145" src="https://github.com/user-attachments/assets/d5ed9d05-92ed-40aa-93c3-d7da2914e9a2" />
